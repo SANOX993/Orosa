@@ -1,3 +1,6 @@
 cd .. (вернуться назад в папке)
 cd (куда)
 git pull (загрузить)
+// git add .
+git commit -m "Komment"
+git push //
